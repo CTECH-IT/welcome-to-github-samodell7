@@ -3,10 +3,10 @@
 First repository for new users
 
 Please enter your name:
-Sam Odell
+Sam Odelll
 
 Please enter your favorite color:
-Blue
+Bluee
 
 Save and push this file back up to GitHub. 
 Make sure to add a commit comment: "Added name and color"!
